@@ -1,0 +1,12 @@
+2.1 Write a program to print your name without using semicolon in the program
+
+
+package session2corejava;
+public class printname {
+	public static void main(String[] args) 
+	{
+for(System.out.println("Poornima");;);
+
+	}
+
+}
